@@ -1,4 +1,4 @@
-# 🚀 AyuGram Desktop: Native Linux Installation Guide (Flatpak Sandbox Bypass)
+# AyuGram Desktop: Native Linux Installation Guide (Flatpak Sandbox Bypass)
 
 This guide provides a complete, from-scratch native installation path for running **AyuGram Desktop** on modern Linux distributions (such as Linux Mint or Ubuntu) when standard Flatpak installations fail. 
 
@@ -6,12 +6,12 @@ If you use custom desktop themes or X11, Flatpak's sandbox often blocks the disp
 
 ---
 
-## 🛑 The Problem
+## The Problem
 AyuGram developers distribute the Linux client strictly via Flatpak bundles. However, custom user configurations (like macOS-style layouts) frequently block the sandbox from accessing the active monitor display. This guide skips the sandbox entirely while keeping the app fully functional with Ghost Mode, anti-delete trackers, and custom themes intact.
 
 ---
 
-## 🛠️ The Step-by-Step Native Solution
+## The Step-by-Step Native Solution
 
 ### Step 1: Download Both Required Components
 Before touching the terminal, we need the AyuGram payload and the official Telegram structural base.
