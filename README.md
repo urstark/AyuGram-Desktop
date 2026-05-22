@@ -64,7 +64,7 @@ sudo rm -f /usr/share/applications/ayugram*.desktop
 
 ---
 
-## 🖥️ Create the Unified System App Launcher
+## Create the Unified System App Launcher
 
 To integrate the application perfectly into your system's app drawer, generate a clean, custom desktop entry file manually:
 
@@ -91,7 +91,7 @@ Keywords=tg;chat;im;messaging;messenger;sms;ayugram;
 
 ---
 
-## 🔄 Finalizing and Refreshing the System
+## Finalizing and Refreshing the System
 
 Execute this final string of commands to apply the execution permissions, clear out stale system icon memory, and rebuild the application database:
 
